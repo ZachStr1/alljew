@@ -34,10 +34,17 @@ module.exports = ({ config }) => {
     extra: {
       ...extra,
       // Prefer EXPO_PUBLIC_ (recommended by Expo), but fall back to GOOGLE_ if you already use that.
-      googlePlacesApiKey:
-        process.env.EXPO_PUBLIC_GOOGLE_PLACES_API_KEY ||
-        process.env.GOOGLE_PLACES_API_KEY ||
-        "AIzaSyB_wg5fl0HZAIqOQHTriWSuVZdOgX_MtMc",
+      googlePlacesApiKey: (() => {
+        const key =
+          process.env.EXPO_PUBLIC_GOOGLE_PLACES_API_KEY ||
+          process.env.GOOGLE_PLACES_API_KEY;
+        if (!key) {
+          throw new Error(
+            "Missing Google Places API key. Set EXPO_PUBLIC_GOOGLE_PLACES_API_KEY (recommended) or GOOGLE_PLACES_API_KEY in your environment."
+          );
+        }
+        return key;
+      })(),
     },
   };
 };
