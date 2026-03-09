@@ -97,6 +97,21 @@ This project aims to create a modern, reliable, and production-ready mobile appl
 
 ---
 
+
+## ⚙️ Installation
+
+Clone the repository:
+
+git clone https://github.com/ZachStr1/alljew.git
+
+Install dependencies:
+
+npm install
+
+Run the development server:
+
+npx expo start
+
 ## 📌 Future Improvements
 
 - Android production build
