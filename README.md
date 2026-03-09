@@ -32,27 +32,43 @@ The goal was to create a reliable, modern, and production-ready app that simplif
 ## 📸 App Screenshots
 
 ### Today Screen
-<img src="assets/screenshots/TodayScreen.png" width="250" />
+<p align="center">
+  <img src="assets/screenshots/TodayScreen.png" width="250" />
+</p>
 
 ### Zmanim Screen
-<img src="assets/screenshots/ZmanimScreen.png" width="250" />
+<p align="center">
+  <img src="assets/screenshots/ZmanimScreen.png" width="250" />
+</p>
 
 ### Davening Screen
-<img src="assets/screenshots/DaveningScreen.png" width="250" />
+<p align="center">
+  <img src="assets/screenshots/DaveningScreen.png" width="250" />
+</p>
 
 ### Shabbat Screen
-<img src="assets/screenshots/ShabbatScreen.png" width="250" />
+<p align="center">
+  <img src="assets/screenshots/ShabbatScreen.png" width="250" />
+</p>
 
 ### Location Screen
-<img src="assets/screenshots/LocationScreen.png" width="250" />
+<p align="center">
+  <img src="assets/screenshots/LocationScreen.png" width="250" />
+</p>
 
 ### Kosher Finder
-<img src="assets/screenshots/KosherScreen1.png" width="250" />
+<p align="center">
+  <img src="assets/screenshots/KosherScreen1.png" width="250" />
+</p>
 
-<img src="assets/screenshots/KosherScreen2.png" width="250" />
+<p align="center">
+  <img src="assets/screenshots/KosherScreen2.png" width="250" />
+</p>
 
 ### Compass
-<img src="assets/screenshots/CompassScreen.png" width="250" />
+<p align="center">
+  <img src="assets/screenshots/CompassScreen.png" width="250" />
+</p>
 (The compass does not show directional info on the ios simulator)
 ---
 
