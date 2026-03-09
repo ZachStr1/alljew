@@ -38,8 +38,8 @@ The goal was to create a reliable, modern, and production-ready app that simplif
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/DaveningScreen.png" width="250" />
   <img src="assets/screenshots/LocationScreen.png" width="250" />
+  <img src="assets/screenshots/DaveningScreen.png" width="250" />
   <img src="assets/screenshots/KosherScreen1.png" width="250" />
 </p>
 
