@@ -53,7 +53,7 @@ The goal was to create a reliable, modern, and production-ready app that simplif
 
 ### Compass
 <img src="assets/screenshots/CompassScreen.png" width="250" />
-
+(The compass does not show directional info on the ios simulator)
 ---
 
 ## 📱 Current Status
