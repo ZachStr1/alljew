@@ -31,45 +31,25 @@ The goal was to create a reliable, modern, and production-ready app that simplif
 
 ## 📸 App Screenshots
 
-### Today Screen
 <p align="center">
   <img src="assets/screenshots/TodayScreen.png" width="250" />
-</p>
-
-### Zmanim Screen
-<p align="center">
   <img src="assets/screenshots/ZmanimScreen.png" width="250" />
-</p>
-
-### Davening Screen
-<p align="center">
   <img src="assets/screenshots/DaveningScreen.png" width="250" />
 </p>
 
-### Shabbat Screen
 <p align="center">
   <img src="assets/screenshots/ShabbatScreen.png" width="250" />
-</p>
-
-### Location Screen
-<p align="center">
   <img src="assets/screenshots/LocationScreen.png" width="250" />
-</p>
-
-### Kosher Finder
-<p align="center">
   <img src="assets/screenshots/KosherScreen1.png" width="250" />
 </p>
 
 <p align="center">
   <img src="assets/screenshots/KosherScreen2.png" width="250" />
-</p>
-
-### Compass
-<p align="center">
   <img src="assets/screenshots/CompassScreen.png" width="250" />
 </p>
-(The compass does not show directional info on the ios simulator)
+
+*(The compass does not show directional info on the iOS simulator)*
+
 ---
 
 ## 📱 Current Status
