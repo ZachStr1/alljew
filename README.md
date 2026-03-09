@@ -32,27 +32,27 @@ The goal was to create a reliable, modern, and production-ready app that simplif
 ## 📸 App Screenshots
 
 ### Today Screen
-![Today Screen](assets/screenshots/TodayScreen.png)
+<img src="assets/screenshots/TodayScreen.png" width="250" />
 
 ### Zmanim Screen
-![Zmanim Screen](assets/screenshots/ZmanimScreen.png)
+<img src="assets/screenshots/ZmanimScreen.png" width="250" />
 
 ### Davening Screen
-![Davening Screen](assets/screenshots/DaveningScreen.png)
+<img src="assets/screenshots/DaveningScreen.png" width="250" />
 
 ### Shabbat Screen
-![Shabbat Screen](assets/screenshots/ShabbatScreen.png)
+<img src="assets/screenshots/ShabbatScreen.png" width="250" />
 
 ### Location Screen
-![Location Screen](assets/screenshots/LocationScreen.png)
+<img src="assets/screenshots/LocationScreen.png" width="250" />
 
 ### Kosher Finder
-![Kosher Finder 1](assets/screenshots/KosherScreen1.png)
+<img src="assets/screenshots/KosherScreen1.png" width="250" />
 
-![Kosher Finder 2](assets/screenshots/KosherScreen2.png)
+<img src="assets/screenshots/KosherScreen2.png" width="250" />
 
 ### Compass
-![Compass Screen](assets/screenshots/CompassScreen.png)
+<img src="assets/screenshots/CompassScreen.png" width="250" />
 
 ---
 
