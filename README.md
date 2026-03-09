@@ -112,6 +112,9 @@ Run the development server:
 
 npx expo start
 
+---
+
+
 ## 📌 Future Improvements
 
 - Android production build
