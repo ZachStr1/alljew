@@ -1,6 +1,10 @@
 # AllJew
 
 <p align="center">
+  <img src="assets/icon.png" width="120"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/React%20Native-0.73-blue?logo=react" />
   <img src="https://img.shields.io/badge/Expo-Framework-black?logo=expo" />
   <img src="https://img.shields.io/badge/TypeScript-5.x-blue?logo=typescript" />
