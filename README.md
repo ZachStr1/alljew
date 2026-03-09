@@ -29,6 +29,33 @@ The goal was to create a reliable, modern, and production-ready app that simplif
 
 ---
 
+## 📸 App Screenshots
+
+### Today Screen
+![Today Screen](assets/screenshots/TodayScreen.png)
+
+### Zmanim Screen
+![Zmanim Screen](assets/screenshots/ZmanimScreen.png)
+
+### Davening Screen
+![Davening Screen](assets/screenshots/DaveningScreen.png)
+
+### Shabbat Screen
+![Shabbat Screen](assets/screenshots/ShabbatScreen.png)
+
+### Location Screen
+![Location Screen](assets/screenshots/LocationScreen.png)
+
+### Kosher Finder
+![Kosher Finder 1](assets/screenshots/KosherScreen1.png)
+
+![Kosher Finder 2](assets/screenshots/KosherScreen2.png)
+
+### Compass
+![Compass Screen](assets/screenshots/CompassScreen.png)
+
+---
+
 ## 📱 Current Status
 
 - 90% production complete
