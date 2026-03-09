@@ -54,8 +54,8 @@ The goal was to create a reliable, modern, and production-ready app that simplif
 
 ## 📱 Current Status
 
-- 90% production complete
-- Subscription paywall implemented
+- 95% production complete
+- Subscription coming soon
 - iOS-ready
 - Peer-reviewed UI refinements in progress
 
